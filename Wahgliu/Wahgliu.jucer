@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="fKC3FA" name="Wahgliu" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginCharacteristicsValue="pluginWantsMidiIn" companyName="CMLS">
+              companyName="TheGetirs">
   <MAINGROUP id="fya2ue" name="Wahgliu">
     <GROUP id="{18F7AFD0-0DEA-2303-5B9D-B4C60D61D06A}" name="Source">
       <FILE id="zF3BkX" name="SliderLookAndFeel.cpp" compile="1" resource="0"
